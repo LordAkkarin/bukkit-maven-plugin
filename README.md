@@ -8,6 +8,8 @@ automatically by generating the plugin information automatically directly from y
 Usage
 -----
 ```xml
+<packaging>bukkit-plugin</packaging>
+
 <plugin>
 	<groupId>io.github.lordakkarin.maven</groupId>
 	<artifactId>bukkit-maven-plugin</artifactId>
